@@ -49,6 +49,7 @@ vue、element、axios、Echarts、cropperjs 等
 - 负责前端组件封装
 - 使用请求拦截器统一处理 token
 - 独立封装工具函数
+- 手写循环分页，解决数据量多的问题
 - githubPage 部署测试
 
 ### xx 银行投票项目（全栈开发）
