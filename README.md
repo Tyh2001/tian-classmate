@@ -56,7 +56,7 @@ vue、element、axios、Echarts、cropperjs 等
 
 **使用技术**
 
-vue3、vant、axios、Echarts、thinkPHP、mysql 等
+vue3、tyh-ui2、axios、Echarts、thinkPHP、mysql 等
 
 **我的职责**
 
