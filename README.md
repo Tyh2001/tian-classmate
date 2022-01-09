@@ -24,8 +24,7 @@ Github：https://github.com/Tyh2001
 
 ## 专业技能
 
-- 熟练使用 ES6
-- 熟练使用 vue 全家桶，了解 vue 周边生态
+- 熟练使用 ES6 和 vue 全家桶，了解 vue 周边生态
 - 熟悉各种 ui 组件库，擅长组件封装
 - 熟悉后端开发逻辑，会定制数据结构
 - 熟练使用 axios 进行前后端数据交互，了解 ThinkPHP 开发框架
@@ -40,7 +39,7 @@ Github：https://github.com/Tyh2001
 
 ### xx 后台管理系统
 
-**使用技术**
+**技术栈**
 
 vue、element、axios、Echarts、cropperjs 等
 
@@ -54,20 +53,20 @@ vue、element、axios、Echarts、cropperjs 等
 
 ### xx 银行投票项目（全栈开发）
 
-**使用技术**
+**技术栈**
 
 vue3、tyh-ui2、axios、Echarts、thinkPHP、mysql 等
 
 **我的职责**
 
-- 负责前端、后端、数据库的所有项目配置
+- 独立负责前端、后端、数据库的所有开发
 - 独立定制数据结构、配置 http 状态码
 - 使用冒泡排序算法改变 Echarts 排列顺序
 - 部署上线项目
 
 ## 自主开发
 
-- 2021 年 5 月 27 日，开始独立研发 vue2 桌面端 ui 组件库取名：[tyh-ui](https://github.com/Tyh2001/tyh-ui)，共包含 14 个常用组件。
+- 2021 年 5 月 27 日，开始独立研发 vue2 桌面端 ui 组件库取名：tyh-ui，共包含 14 个常用组件。
 
 - 同年 10 月中旬，开始主攻 vue3，也继 tyh-ui 开发了性能更好，优化更完美的的下一代组件库[tyh-ui2](https://github.com/Tyh2001/tyh-ui2)，内部共包含**21**个常用组件，组件轻量级，只有 135 kB，每周 npm 也可以得到几百的下载量。
 
