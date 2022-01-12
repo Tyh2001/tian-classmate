@@ -66,11 +66,7 @@ vue3、tyh-ui2、axios、Echarts、thinkPHP、mysql 等
 
 ## 自主开发
 
-- 2021 年 5 月 27 日，开始独立研发 vue2 桌面端 ui 组件库取名：tyh-ui，共包含 14 个常用组件。
-
-- 同年 10 月中旬，开始主攻 vue3，也继 tyh-ui 开发了性能更好，优化更完美的的下一代组件库[tyh-ui2](https://github.com/Tyh2001/tyh-ui2)，内部共包含**21**个常用组件，组件轻量级，只有 135 kB，每周 npm 也可以得到几百的下载量。
-
-- 开发完成之后，部署在了 npm 和 github，并使用 vue3 从 0 开始做了[官方文档](https://tianyuhao.cn/tyhui/v3)上线。
+- 独立开发 vue3 组件库 [tyh-ui2](https://github.com/Tyh2001/tyh-ui2)，内部共包含**20+**常用组件，组件轻量级，只有 135 kB。并带有详细的[文档](https://tianyuhao.cn/tyhui/v3)。
 
 ## 自我评价
 
