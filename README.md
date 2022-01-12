@@ -66,7 +66,7 @@ vue3、tyh-ui2、axios、Echarts、thinkPHP、mysql 等
 
 ## 自主开发
 
-- 独立开发 vue3 组件库 [tyh-ui2](https://github.com/Tyh2001/tyh-ui2)，内部共包含**20+**常用组件，组件轻量级，只有 `135 kB`。并带有详细的[文档](https://tianyuhao.cn/tyhui/v3)。
+- 独立开发 vue3 组件库 [tyh-ui2](https://github.com/Tyh2001/tyh-ui2)，内部共包含 `20+` 常用组件，组件轻量级，只有 `135 kB`。并带有详细的[文档](https://tianyuhao.cn/tyhui/v3)。
 
 ## 自我评价
 
