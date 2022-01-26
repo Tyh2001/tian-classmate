@@ -20,7 +20,6 @@ Github：https://github.com/Tyh2001
 
 ## 自主开发
 
-- 独立开发 vue2 组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)。
 - 独立开发 vue3 组件库 [tyh-ui2](https://github.com/Tyh2001/tyh-ui2)，内部共包含 20+ 常用组件，相比上一代优化更好，组件轻量级，只有 135 kB 。并带有详细的[文档](https://tianyuhao.cn/tyhui/v3)。
 - 独立开发 vscode 主题插件 [tyh-theme](https://github.com/Tyh2001/tyh-theme-vscode)。
 - 常在 Github 活跃，发现优质项目，阅读源码。
@@ -59,7 +58,3 @@ Github：https://github.com/Tyh2001
 - 独立定制数据结构、配置 http 状态码
 - 使用冒泡排序算法改变 Echarts 排列顺序
 - 部署上线项目
-
-## 自我评价
-
-做事认真负责，对开发有很强的兴趣，喜欢接触新生事物，勇于创新。
