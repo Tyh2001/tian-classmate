@@ -8,7 +8,7 @@
 
 个人主页：https://tianyuhao.cn/blog
 
-教育经历：计算机网络应用/2017.0-2021.5
+教育经历：计算机网络应用（2017.09-2021.05）
 
 Github：https://github.com/Tyh2001
 
