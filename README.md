@@ -44,7 +44,7 @@ Github：https://github.com/Tyh2001
 
 ### xx 银行投票项目-全栈开发
 
-`vue3` `tyh-ui2` `axios` `Echarts` `thinkPHP` `mysql`
+`vue3` `tyh-ui` `axios` `Echarts` `thinkPHP` `mysql`
 
 - 独立负责前端、后端、数据库的所有开发
 - 独立定制数据结构、配置 http 状态码
