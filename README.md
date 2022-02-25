@@ -14,7 +14,7 @@ Github：https://github.com/Tyh2001
 
 ## 自主开发
 
-- 独立开发 vue3 组件库 [tyh-ui2](https://github.com/Tyh2001/tyh-ui2)，内部共包含 20+ 常用组件，相比上一代优化更好，组件轻量级，只有 135 kB 。并带有详细的[文档](https://tianyuhao.cn/tyhui/v3)。
+- 独立开发 vue3 轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，内部共包含近30个常用组件。并带有详细的[文档](https://tianyuhao.cn/v3)。
 - 独立开发 vscode 主题插件 [tyh-theme](https://github.com/Tyh2001/tyh-theme-vscode)。
 - 常在 Github 活跃，发现优质项目，阅读源码。
 
