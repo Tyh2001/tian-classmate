@@ -2,7 +2,7 @@
 
 ## 基本资料
 
-个人信息：田同学 / 21岁 / 杭州市临平区
+个人信息：田同学 / 21 岁 / 杭州市临平区
 
 联系方式：15211111111 / 12345678@qq.com
 
@@ -14,7 +14,7 @@ Github：https://github.com/Tyh2001
 
 ## 自主开发
 
-- 独立开发 vue3 轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，内部共包含30+个常用组件。并带有详细的[文档](https://tianyuhao.cn/v3)。
+- 独立开发 vue3 轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，内部共包含 30+个常用组件。并带有详细的[文档](https://tianyuhao.cn/v3)。
 - 独立开发 vscode 主题插件 [tyh-theme](https://github.com/Tyh2001/tyh-theme-vscode)。
 - 常在 Github 活跃，发现优质项目，阅读源码。
 
@@ -30,6 +30,12 @@ Github：https://github.com/Tyh2001
 - 2021-5-10 ～ 至今 杭州 xx 电子商务有限公司-担任前端开发
 
 ## 项目经历
+
+### tyh-ui 官方网站
+
+`vue3` `tyh-ui` `highlight.js`
+
+- 性能优化，包的大小从**2.1MB**优化到了**823KB**
 
 ### xx 后台管理系统
 
