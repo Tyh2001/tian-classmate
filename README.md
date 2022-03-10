@@ -36,6 +36,7 @@ Github：https://github.com/Tyh2001
 `vue3` `tyh-ui` `highlight.js`
 
 - 性能优化，包的大小从**2.1MB**优化到了**823KB**
+- 网站的性能评分 从80 分 优化到 **96** 分
 
 ### xx 后台管理系统
 
