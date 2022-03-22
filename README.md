@@ -36,7 +36,7 @@ Github：https://github.com/Tyh2001
 `vue3` `tyh-ui` `highlight.js`
 
 - 性能优化，首次通过减少引入将包的大小从**2.1MB**优化到了**823KB**
-- 第二次优化通过将在线图片和压缩图片的方式，将包的大小从 **823KB**优化到了**473KB**
+- 第二次优化通过将在线图片和压缩图片的方式，将包的大小从 **823KB**优化到了**472KB**
 - 网站的性能评分 从 80 分 优化到 [98分](https://github.com/Tyh2001/tian-classmate/blob/master/assets/score-98.png?raw=true)
 
 ### xx 后台管理系统
