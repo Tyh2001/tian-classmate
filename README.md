@@ -14,7 +14,7 @@ Github：https://github.com/Tyh2001
 
 ## 开源贡献
 
-- 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 vue3 + typescript，monorepo 构建方式。内部共包含 30+ 常用组件。并带有详细的[文档](https://tianyuhao.cn/v3)。
+- 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 vue3 + TypeScript。内部共包含 30+ 常用组件。并带有详细的[文档](https://tianyuhao.cn/v3)。
 - 独立开发 vscode 主题插件 [tyh-theme](https://github.com/Tyh2001/tyh-theme-vscode)。
 - 常在 Github 活跃，发现优质项目，阅读源码。[blog](https://tianyuhao.cn/blog) 进行学习总结。
 
