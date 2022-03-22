@@ -51,4 +51,4 @@ Github：https://github.com/Tyh2001
 - 每次交互都会给用户舒适的用户体验
 - 基于 localStorage 和 vuex 缓存用户信息
 - 独立封装工具函数、组件等
-- 规定后端定制指定数据结构
+- 规定后端返回指定 json 数据结构
