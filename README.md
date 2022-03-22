@@ -47,7 +47,7 @@ Github：https://github.com/Tyh2001
 
 `vue3` `tyh-ui` `axios` `Echarts` `thinkPHP` `mysql`
 
-- 每次操作会给都给用户舒适的用户体验
+- 每次交互都会给用户舒适的用户体验
 - 基于 localStorage 和 vuex 缓存用户信息
 - 独立负责前端、后端、数据库的所有开发
 - 独立封装工具函数、组件等
