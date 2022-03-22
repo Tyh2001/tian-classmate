@@ -51,5 +51,3 @@ Github：https://github.com/Tyh2001
 - 基于 localStorage 和 vuex 缓存用户信息
 - 独立封装工具函数、组件等
 - 规定后端定制指定数据结构
-- 使用冒泡排序算法改变 Echarts 排列顺序
-- 上线部署到服务器
