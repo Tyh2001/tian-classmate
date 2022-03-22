@@ -6,8 +6,6 @@
 
 联系方式：15211111111 / 12345678@qq.com
 
-个人主页：https://tianyuhao.cn
-
 教育经历：计算机网络应用（2017.09-2021.05）
 
 Github：https://github.com/Tyh2001
