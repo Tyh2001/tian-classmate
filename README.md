@@ -41,7 +41,7 @@ Github：https://github.com/Tyh2001
 - 官网第一次性能优化，通过减少依赖将包的大小从**2.1MB**优化到了**823KB**
 - 官网第二次优化通过将在线图片和压缩图片的方式，将包的大小从 **823KB**优化到了**472KB**
 - 网站的性能评分 从 80 分 优化到 [98分](https://github.com/Tyh2001/tian-classmate/blob/master/assets/score-98.png?raw=true)
-- 目前正在筹备开发全新组件库[spring-ui](https://github.com/Tyh2001/spring-ui)
+- 目前正在筹备开发全新组件库 [Spring-ui](https://github.com/Tyh2001/spring-ui)
 
 ### 花旗银行投票项目-全栈开发
 
