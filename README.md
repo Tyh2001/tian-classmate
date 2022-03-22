@@ -36,7 +36,7 @@ Github：https://github.com/Tyh2001
 `vue3` `vite` `TypeScript` `pnpm` `highlight.js`
 
 - 带领两个小伙伴一起维护组件库日常开发
-- 采用 monorepo + pnpm 构建，核心使用 vue3 + TypeScript 实现常用组件 30+
+- 采用 monorepo + pnpm 构建，核心使用 vue3 + TypeScript 实现常用组件 `30+`
 - 组件内部进行多次重写、代码优化、性能优化、样式优化、体积优化等
 - 官网第一次性能优化，通过减少依赖将包的大小从**2.1MB**优化到了**823KB**
 - 官网第二次优化通过将在线图片和压缩图片的方式，将包的大小从 **823KB**优化到了**472KB**
