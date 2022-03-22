@@ -43,14 +43,13 @@ Github：https://github.com/Tyh2001
 - 网站的性能评分 从 80 分 优化到 [98分](https://github.com/Tyh2001/tian-classmate/blob/master/assets/score-98.png?raw=true)
 - 目前正在筹备开发全新组件库 [Spring-ui](https://github.com/Tyh2001/spring-ui)
 
-### 花旗银行投票项目-全栈开发
+### 花旗银行投票项目
 
-`vue3` `tyh-ui` `axios` `Echarts` `thinkPHP` `mysql`
+`vue3` `tyh-ui` `axios` `Echarts`
 
 - 每次交互都会给用户舒适的用户体验
 - 基于 localStorage 和 vuex 缓存用户信息
-- 独立负责前端、后端、数据库的所有开发
 - 独立封装工具函数、组件等
-- 独立定制数据结构、配置 http 状态码
+- 规定后端定制指定数据结构
 - 使用冒泡排序算法改变 Echarts 排列顺序
 - 上线部署到服务器
