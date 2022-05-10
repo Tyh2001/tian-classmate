@@ -14,9 +14,10 @@ Github：https://github.com/Tyh2001
 
 ### 开源贡献
 
-- 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 vue3+TypeScript。内部共包含 30+ 常用组件。并带有详细的[官方文档](https://tianyuhao.cn/v3)
+- 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 vue3+TypeScript。内部共包含 30+ 常用组件。并带有详细的[文档](https://tianyuhao.cn/v3)
 - 独立开发 vscode 主题插件 [tyh-theme](https://github.com/Tyh2001/tyh-theme-vscode)
-- 常在 Github 活跃，发现优质项目，阅读源码；[blog](https://tianyuhao.cn/blog) 进行学习总结；[掘金](https://juejin.cn/user/2243446742456888)发布技术文章
+- 独立开发组件库 [Fighting Design](https://github.com/tyh2001/fighting-design) 使用 TypeScript，带有优化更好的[文档](https://fighting.tianyuhao.cn)。
+- 独立开发函数工具库 [TsMango](https://github.com/Tyh2001/TsMango)，[文档](https://tianyuhao.cn/mango)在这里。
 
 ### 专业技能
 
@@ -27,7 +28,8 @@ Github：https://github.com/Tyh2001
 
 ### 工作经历
 
-- 2021-05-10 ～ 2022-03-22 杭州xx电子商务有限公司 - 担任前端开发
+- `2021-05-10 ～ 2022-03-22` 杭州 xx 电子商务有限公司 **担任 Web 前端工程师**
+- `2022-04-11 ～ 至今` 杭州 xx 数字 **担任 Web 前端工程师**
 
 ### 项目经历
 
@@ -43,7 +45,7 @@ Github：https://github.com/Tyh2001
 - 体积优化在多处细节上，采用`权衡的艺术`思想进行简化代码，将可抽离出来的函数全部抽离，代码能简化尽量简化，实现用最少代码实现相同功能
 - 官网第一次性能优化，通过减少依赖将包的大小的方式打包体积从**2.1MB**优化到了**823KB**
 - 官网第二次优化通过使用在线图片和压缩图片的方式，将包的大小从 **823KB**优化到了**472KB**
-- 网站的性能评分 从 80 分 优化到 [98分](https://github.com/Tyh2001/tian-classmate/blob/master/assets/score-98.png?raw=true)
+- 网站的性能评分 从 80 分 优化到 [98 分](https://github.com/Tyh2001/tian-classmate/blob/master/assets/score-98.png?raw=true)
 - 目前正在筹备开发全新组件库
 
 **花旗银行投票项目**
@@ -56,3 +58,9 @@ Github：https://github.com/Tyh2001
 - 独立封装工具函数、组件等
 - 规定后端返回指定 json 数据结构
 - 负责部署上线测试等
+
+**云手册**
+
+`vue2` `axios` `vuex`
+
+- 公司自研产品，内置大量 3D 模型展示，我负责和后端对数据接口，和 U3D 开发工程师合作开发 3D 图形接口展示。
