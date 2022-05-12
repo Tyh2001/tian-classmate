@@ -64,3 +64,8 @@ Github：https://github.com/Tyh2001
 `vue2` `axios` `vuex`
 
 - 公司自研产品，内置大量 3D 模型展示，我负责和后端对数据接口，和 U3D 开发工程师合作开发 3D 图形接口展示。
+
+
+### 遇到的困难
+
+- vite 的项目中不能使用 `require` 关键字，需要点击按钮实现唤醒本地应用的效果，就要要用到 node 中的 `child_process` 包，但是这个包并不支持使用 `import` 进行引入，所以在 github 上找了不少的第三方插件都不能实现，最后使用 vue-cli 创建了新的项目实现了效果
