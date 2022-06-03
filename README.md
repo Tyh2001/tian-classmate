@@ -14,10 +14,10 @@ Github：https://github.com/Tyh2001
 
 ### 开源贡献
 
-- 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 vue3+TypeScript。内部共包含 30+ 常用组件。并带有详细的[文档](https://tianyuhao.cn/v3)
+- 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 vue3 + TypeScript。内部共包含 30+ 常用组件
 - 独立开发 vscode 主题插件 [tyh-theme](https://github.com/Tyh2001/tyh-theme-vscode)
-- 独立开发组件库 [Fighting Design](https://github.com/tyh2001/fighting-design) 使用 TypeScript，带有优化更好的[文档](https://fighting.tianyuhao.cn)。
-- 独立开发函数工具库 [TsMango](https://github.com/Tyh2001/TsMango)，[文档](https://tianyuhao.cn/mango)在这里。
+- 独立开发组件库 [Fighting Design](https://github.com/tyh2001/fighting-design) 使用 TypeScript
+- 独立开发 TypeScript 函数工具库 [TsMango](https://github.com/Tyh2001/TsMango)
 
 ### 专业技能
 
