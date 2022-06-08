@@ -14,8 +14,8 @@ Github：https://github.com/Tyh2001
 
 ### 开源贡献
 
-- 带领社区团队开发 vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design)
-- 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 vue3 + TypeScript。内部共包含 30+ 常用组件
+- 带领社区团队开发 Vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design)
+- 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 Vue3 + TypeScript。内部共包含 30+ 常用组件
 - 独立开发 vscode 主题插件 [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
 - 独立开发 TypeScript 函数工具库 [TsMango](https://github.com/Tyh2001/TsMango)
 
@@ -29,7 +29,7 @@ Github：https://github.com/Tyh2001
 ### 工作经历
 
 - `2021-05-10 ～ 2022-03-22` 杭州 xx 电子商务有限公司 **担任 Web 前端工程师**
-- `2022-04-11 ～ 至今` 杭州 xx 数字 **担任 Web 前端工程师**
+- `2022-04-11 ～ 2022-06-10` 杭州 xx 数字 **担任 Web 前端工程师**
 
 ### 项目经历
 
@@ -55,7 +55,7 @@ Github：https://github.com/Tyh2001
 
 **715 第二期应用分发**
 
-`electron` `Vue3` `TypeScript` `Vite`
+`Electron` `Vue3` `TypeScript` `Vite` `Axios`
 
 - 715 第二期是一个桌面端应用程序，可以唤醒本地应用程序
 - 完成项目从 0 到交付的全部编写
