@@ -16,7 +16,7 @@ Github：https://github.com/Tyh2001
 
 - 带领社区团队开发 vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design)
 - 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 vue3 + TypeScript。内部共包含 30+ 常用组件
-- 独立开发 vscode 主题插件 [tyh-theme](https://github.com/Tyh2001/tyh-theme-vscode)
+- 独立开发 vscode 主题插件 [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
 - 独立开发 TypeScript 函数工具库 [TsMango](https://github.com/Tyh2001/TsMango)
 
 ### 专业技能
@@ -40,10 +40,3 @@ Github：https://github.com/Tyh2001
 **超真云手册**
 
 `Vue` `Vuex` `Vue-router` `Axios`
-
-- 花旗银行需要拥有一个可以进行投票实时展示的平台，我负责开发一个投票系统帮助完成投票需求，并在短期内上线完成需求
-- 每次交互都会给用户舒适的用户体验
-- 基于 localStorage 和 vuex 缓存用户信息
-- 独立封装工具函数、组件等
-- 规定后端返回指定 json 数据结构
-- 负责部署上线测试等
