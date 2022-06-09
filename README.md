@@ -21,10 +21,11 @@ Github：https://github.com/Tyh2001
 
 ### 专业技能
 
+- 熟练使用 HTML5、CSS3、TypeScript
 - 熟练使用 ES6 和 Vue 全家桶，了解 Vue 周边生态
 - 熟练各种 UI 组件库，擅长组件封装
+- 熟练使用 Axios，了解基础 HTTP 网络协议
 - 熟悉后端开发逻辑，会定制数据结构
-- 了解基础 HTTP 网络协议
 
 ### 工作经历
 
@@ -37,11 +38,11 @@ Github：https://github.com/Tyh2001
 
 `Vue3` `TypeScript` `Vite` `Rollup` `Pnpm` `Sass`
 
-- 带领社区团队开发维护日常开发
+- 负责带领社区团队开发维护日常开发，管理项目，绘制设计稿，提供技术支持
 - 配置良好的代码规范、提交规范、文档规范、目录规范、命名规范、RFC 等
 - 采用 monorepo + pnpm 构建，核心使用 vue3 + TypeScript
-- 根据实际业务需求开发新的配置，让组件更灵活
-- 使用 vitest 完成组件的单元测试
+- 根据实际业务需求开发新的配置，随时根据业务需求提供组件的升级和扩展
+- 使用 vitest + test-utils 完成所有组件单元测试
 
 **超真云手册**
 
