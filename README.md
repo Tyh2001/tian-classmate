@@ -21,8 +21,7 @@ Github：https://github.com/Tyh2001
 
 ### 专业技能
 
-- 熟练使用 HTML5、CSS3、TypeScript
-- 熟练使用 ES6 和 Vue 全家桶，了解 Vue 周边生态
+- 熟练使用 ES6、TypeScript 和 Vue 全家桶，了解 Vue 周边生态
 - 熟练各种 UI 组件库，擅长组件封装
 - 熟练使用 Axios，了解基础 HTTP 网络协议
 - 熟悉后端开发逻辑，会定制数据结构
