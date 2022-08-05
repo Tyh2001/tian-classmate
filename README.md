@@ -14,8 +14,8 @@ Github：https://github.com/Tyh2001
 
 ### 开源贡献
 
-- 带领社区团队开发 Vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design) <a href="https://github.com/FightingDesign/fighting-design"><img src="https://img.shields.io/github/stars/FightingDesign/fighting-design" /></a>
-- 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 Vue3 + TypeScript。内部共包含 30+ 常用组件 <a href="https://github.com/Tyh2001/tyh-ui"><img src="https://img.shields.io/github/stars/Tyh2001/tyh-ui" /></a>
+- 带领社区团队开发 Vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design)，官方网站实现服务器自动化拉取仓库自动安装依赖打包部署
+- 独立开发轻量级组件库 [tyh-ui](https://github.com/Tyh2001/tyh-ui)，基于 Vue3 + TypeScript。内部共包含 30+ 常用组件
 - 独立开发 vscode 主题插件 [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
 - 独立开发 TypeScript 函数工具库 [TsMango](https://github.com/Tyh2001/TsMango)
 
