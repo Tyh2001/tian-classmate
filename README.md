@@ -17,7 +17,8 @@ Github：https://github.com/Tyh2001
 - 带领社区团队开发 Vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design)，官方网站实现服务器自动化拉取仓库自动安装依赖打包部署
 - 独立开发 vscode 主题插件 [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
 - 独立开发 TypeScript 函数工具库 [ts-mango](https://github.com/ts-mango/ts-mango)
-- 开发 vitepress 开箱即用模板 [vitepress-template](https://github.com/Tyh2001/vitepress-template)
+- 独立开发 vitepress 开箱即用模板 [vitepress-template](https://github.com/Tyh2001/vitepress-template)
+- 独立开发 vue + ts 开箱即用的 eslint 配置包 [eslint-config-fighting](https://github.com/FightingDesign/fighting-design/tree/master/packages/eslint-config)
 
 ### 专业技能
 
