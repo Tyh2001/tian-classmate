@@ -8,6 +8,8 @@
 
 Github：https://github.com/Tyh2001
 
+掘金：[田同学 2001](https://juejin.cn/user/2243446742456888)
+
 ### 教育经历
 
 - xxxx 计算机网络应用 xx 学历（2017.09 ~ 2021.05）
