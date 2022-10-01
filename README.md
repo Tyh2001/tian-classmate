@@ -16,7 +16,7 @@ Github：https://github.com/Tyh2001
 
 ### 开源贡献
 
-- 带领社区团队开发 Vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design)，官方网站实现服务器自动化拉取仓库自动安装依赖打包部署
+- 带领社区团队开发 Vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design)，官方网站实现服务器自动化拉取仓库自动安装依赖打包部署。曾被选入[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)推荐
 - 开发 Fighting Design 演练场编辑器 [playground](https://github.com/FightingDesign/playground)
 - 独立开发 vscode 主题插件 [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
 - 独立开发 TypeScript 函数工具库 [ts-mango](https://github.com/ts-mango/ts-mango)
@@ -41,7 +41,7 @@ Github：https://github.com/Tyh2001
 
 **Fighting Design**
 
-`Vue3` `TypeScript` `Vite` `Rollup` `Pnpm` `Sass`
+`Vue3` `TypeScript` `Vite` `Pnpm` `Sass`
 
 - 负责带领社区团队开发维护日常开发，管理项目，绘制设计稿，提供技术支持
 - 配置良好的代码规范、提交规范、文档规范、目录规范、命名规范、RFC 等
@@ -55,7 +55,7 @@ Github：https://github.com/Tyh2001
 
 - 超真云手册是新一代产品数字化全端 3D 交互云平台
 - 我负责调用 3D 接口展示不同的手册内容，完成各种对 3D 模型的操作，内部共包含云手册 300+
-- 由于组件太大，导致首屏加载时间过长，采用了异步组件按需加载方式，使首屏加载速度提升
+- 由于组件体积较大，导致首屏加载时间过长，采用了异步组件按需加载方式，使首屏加载速度提升
 - 使用 CDN 引入、图片压缩、组件库按需加载、公共文件抽离等方式优化打包体积
 - 性能优化从 70 分优化到 90 分以上
 
