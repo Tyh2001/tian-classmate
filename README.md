@@ -34,12 +34,12 @@ Github：https://github.com/Tyh2001
 ### 工作经历
 
 - `2021-05-10 ～ 2022-03-22` 杭州 xx 电子商务有限公司 **担任 Web 前端工程师**
-- `2022-04-11 ～ 2022-06-10` 杭州 xx 数字 **担任 Web 前端工程师**（公司资金问题，改变政策，被迫离职）
-- `2022-07-14 ～ 至今` 杭州 xx 科技 **担任区块链前端工程师**
+- `2022-04-11 ～ 2022-06-10` 杭州 xx 数字 **担任 Web 前端工程师**
+- `2022-07-14 ～ 至今` 杭州 xx 科技 **担任区块链 Web 前端工程师**
 
 ### 项目经历
 
-**Fighting Design**
+**Fighting Design** ![](https://img.shields.io/github/stars/FightingDesign/fighting-design?style=social)
 
 `Vue3` `TypeScript` `Vite` `Pnpm` `Sass`
 
