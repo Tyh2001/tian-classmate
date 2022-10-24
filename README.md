@@ -17,6 +17,7 @@ Github：https://github.com/Tyh2001
 ### 开源贡献
 
 - 带领社区团队开发 Vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design)，官方网站实现服务器自动化拉取仓库自动安装依赖打包部署。曾被选入[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)推荐
+- 研发建立在 Web 标准之上的下一代的 UI 组件库 [web-components](https://github.com/FightingDesign/web-components)
 - 开发 Fighting Design 演练场编辑器 [playground](https://sfc.tianyuhao.cn)
 - 独立开发 vscode 主题插件 [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
 - 独立开发 TypeScript 函数工具库 [ts-mango](https://github.com/ts-mango/ts-mango)
