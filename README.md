@@ -43,7 +43,8 @@ Github：https://github.com/Tyh2001
 
 `Vue3` `TypeScript` `Vite` `Pnpm` `Sass`
 
-- 实现 **50+** 常用组件，文档自动部署打包部署，被选入[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)推荐
+- 实现 **50+** 常用组件，文档自动部署打包部署
+- 被选入[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)推荐
 - 负责带领社区团队开发维护日常开发，管理项目，绘制设计稿，提供技术支持
 - 配置良好的代码规范、提交规范、文档规范、目录规范、命名规范、RFC 等
 - 采用 monorepo + pnpm 构建，核心使用 vue3 + TypeScript
