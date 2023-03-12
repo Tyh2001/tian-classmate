@@ -20,8 +20,6 @@ Github：https://github.com/Tyh2001
 - 独立开发自定义按钮工具 [Button](https://github.com/Tyh2001/Button)，用于业务中各种按钮的样式实现
 - 独立开发 VS Code 主题插件 [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
 
-润色一下我的描述
-
 ### 工作经历
 
 - `2021-05-10 ～ 2022-04` 杭州 xx 电子商务有限公司 **担任 Web 前端工程师**
