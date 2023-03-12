@@ -15,11 +15,26 @@ Github：https://github.com/Tyh2001
 ### 开源贡献
 
 - 带领社区团队开发 Vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design)
-- 研发建立在 Web 标准之上的下一代的 UI 组件库 [web-components](https://github.com/FightingDesign/web-components)
+- 独立开发 VitePress 开箱即用模板 [vitepress-template](https://github.com/Tyh2001/vitepress-template)，用于边写组件库官方文档
+- 独立开发 Vue + TypeScript 开箱即用的 ESLint 配置包 [@fighting-design/eslint-config](https://github.com/FightingDesign/fighting-design/tree/master/packages/fighting-eslint-config)，统一了冒号符号规范、缩进规范、模板规范、引入规范和定义规范，提高了公司的代码规范性和可维护性
+- 独立开发自定义按钮工具 [Button](https://github.com/Tyh2001/Button)，用于业务中各种按钮的样式实现
 - 独立开发 VS Code 主题插件 [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
-- 独立开发 VitePress 开箱即用模板 [vitepress-template](https://github.com/Tyh2001/vitepress-template)
-- 独立开发 vue + ts 开箱即用的 ESLint 配置包 [@fighting-design/eslint-config](https://github.com/FightingDesign/fighting-design/tree/master/packages/fighting-eslint-config)
-- 独立开发自定义按钮工具 [Button](https://github.com/Tyh2001/Button)
+
+润色一下我的描述
+
+### 工作经历
+
+- `2021-05-10 ～ 2022-04` 杭州 xx 电子商务有限公司 **担任 Web 前端工程师**
+
+  - 负责花旗银行前端和公司内部大屏项目的开发和维护
+  - 负负责公司服务器的维护和测试环境的部署
+
+- `2022-07-14 ～ 2023-04` 杭州 xx 科技 **担任区块链 Web 前端工程师**
+
+  - 配合后端、产品和 UI 设计师高效完成业务需求
+  - 负责和测试配合解决老项目中的 BUG
+  - 负责使用禅道跟进项目进度
+  - 负责维护公司的三台服务器，并部署不同的项目
 
 ### 专业技能
 
@@ -28,32 +43,24 @@ Github：https://github.com/Tyh2001
 - 熟练使用 Axios，并能够灵活定制数据结构
 - 了解 W3C 标准和事件循环机制
 
-### 工作经历
-
-- `2021-05-10 ～ 2022-06` 杭州 xx 电子商务有限公司 **担任 Web 前端工程师**
-- `2022-07-14 ～ 2023-04` 杭州 xx 科技 **担任区块链 Web 前端工程师**
-
 ### 项目经历
 
 **Fighting Design**
 
 `Vue3` `TypeScript` `Vite` `Pnpm` `Sass`
 
-- 实现了 70+ 常用组件，并且建立了文档自动部署和打包部署流程，提交自动执行打包测试和单元测试
-- 被选入[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)推荐
-- 负责带领社区团队开发维护日常开发，管理项目，绘制设计稿，提供技术支持
-- 配置良好的代码规范、提交规范、文档规范、目录规范、命名规范、注释规范
-- 采用 monorepo + pnpm 构建方式，并核心使用 vue3 和 TypeScript 进行开发
-- 根据业务需求，不断升级和扩展组件，为用户提供更好的体验
-- 使用 vitest + test-utils 完成所有组件单元测试
-- 实现了浏览器兼容处理，确保低版本浏览器下的正确使用
-- 抽离公共模块，封装 hooks 和 utils
+- Fighting Design 是一款适用于 Vue3 应用程序的交互界面构建组件库。主要负责领导社区成员开发组件、合并并修改 PR、解决提出的 Issue 等任务。并获得了多方认可，被选为[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)的推荐项目，现已有 41 位贡献者参与到开发建设中，共计获得 381 个 Star
+- 针对公司业务需求，完善了组件所需功能，并且可以根据不同的 UI 定制不同的样式。此外，每个变量和方法都有详细的 jsDoc 注释，方便更多人参与维护，同时整个项目中没有 any 类型，对函数的参数和返回值均做了清晰标记
+- 为了更好地兼容不同浏览器，开发团队针对 ES6 中一些新方法做了兼容处理，例如 Object.entries 和 IntersectionObserver。使用 monorepo 管理项目各个模块，提高了代码重用性、协作和开发速度，更好地管理各个依赖项
+- 针对组件的部分参数，开发团队进行了严格类型校验，并且加入了参数错误报错提示，提高问题解决时间。团队还封装了类型校验的工具函数和 Props 参数设置方法，通过调用方法即可设置 Props 的类型、默认值及校验器
+- 为了提高打包速度，优化了 vite 配置文件，同时使用插件实现了 CSS 向下兼容处理。团队还使用 Node 编写了脚本自动读取文件修改版本号
+- 在国际化和样式配置的方面，你们的组件库推出了全局配置组件。这个组件能够针对不同的类型和语言进行配置以支持国际化，也能够配置统一的样式。这无疑大大降低了用户在使用过程中的复杂度，同时也提高了整个组件库的易用性和可维护性
 
 **金综链管理平台**
 
 `Vue3` `TypeScript` `Vite` `Less` `Axios`
 
-- 通过图片压缩、按需加载、浏览器建议、公共文件抽离等方式优化打包体积，性能优化从 78 分提升到 91 分
-- 实现了和后端的良好配合，提前完成了项目开发任务
-- 封装了 axios 请求，包括请求拦截器和响应拦截器
-- 封装了函数工具库和公用组件，提高代码复用性，提高开发效率
+- 金综链管理平台是一个面向银行端的管理平台，可以管理链节点、查看节点信息。在性能测试方面，使用 Lighthouse 工具对网页性能进行评测，通过图片压缩、组件懒加载、按需引入等方式将性能评分从 78 分提高到 91 分，并优化了打包体积
+- 为了提高开发效率和项目进度，编写了 shell 脚本实现测试服自动拉取代码、打包、部署。同时使用你开发的 Eslint 插件提高了代码质量和维护成本，并推动了项目进度
+- 我的组件库非常地实用，使用它可以更快地完成交互页面的搭建工作，并且和后端开发团队配合良好，提前完成了开发任务
+- 为了提高代码质量和可维护性，你们封装了请求拦截器以统一设置请求头，并将响应拦截器统一用于拦截错误信息。这些做法确保代码的高效运行，提高了开发者的开发效率
