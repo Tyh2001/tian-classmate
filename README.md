@@ -47,7 +47,7 @@ Github：https://github.com/Tyh2001
 
 `Vue3` `TypeScript` `Vite` `Pnpm` `Sass`
 
-- Fighting Design 是一款适用于 Vue3 应用程序的交互界面构建组件库。主要负责领导社区成员开发组件、合并并修改 PR、解决提出的 Issue 等任务。并获得了多方认可，被选为[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)的推荐项目，现已有 41 位贡献者参与到开发建设中，共计获得 393 个 Star
+- Fighting Design 是一款适用于 Vue3 应用程序的交互界面构建组件库。主要负责领导社区成员开发组件、合并并修改 PR、解决提出的 Issue 等任务。并获得了多方认可，被选为[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)的推荐项目，现已有 41 位贡献者参与到开发建设中，共计获得 400 个 Star
 - 针对公司业务需求，完善了组件所需功能，并且可以根据不同的 UI 定制不同的样式。此外，每个变量和方法都有详细的 jsDoc 注释，方便更多人参与维护，同时整个项目中没有 any 类型，对函数的参数和返回值均做了清晰标记
 - 为了更好地兼容不同浏览器，开发团队针对 ES6 中一些新方法做了兼容处理，例如 Object.entries 和 IntersectionObserver。使用 monorepo 管理项目各个模块，提高了代码重用性、协作和开发速度，更好地管理各个依赖项
 - 针对组件的部分参数，开发团队进行了严格类型校验，并且加入了参数错误报错提示，提高问题解决时间。团队还封装了类型校验的工具函数和 Props 参数设置方法，通过调用方法即可设置 Props 的类型、默认值及校验器
