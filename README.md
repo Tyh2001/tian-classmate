@@ -45,7 +45,7 @@ Github：https://github.com/Tyh2001
 
 `Vue3` `TypeScript` `Vite` `Pnpm` `Sass`
 
-- Fighting Design 是一个 Vue3 应用程序的交互界面构建组件库，现有 41 位贡献者参与到开发建设中，共计获得 444 个 Star，被选为[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)推荐。
+- Fighting Design 是一个 Vue3 应用程序的交互界面构建组件库，现有 41 位贡献者参与到开发建设中，共计获得 447 个 Star，被选为[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)推荐。
 
 - 根据公司业务需求进行完善，并且可以根据不同的 UI 定制不同的样式。每个变量和方法都有详细的 jsDoc 注释，同时整个项目中没有 any 类型，对函数的参数和返回值均做了清晰标记。
 
@@ -86,6 +86,18 @@ Github：https://github.com/Tyh2001
 - 使用了 ECharts 可视化库，通过可视化展示数据，使得用户更容易理解和分析数据，提高了用户体验。
 
 - 针对不同的环境（如开发、测试、生产），使用了不同的配置文件，保证了各个环境的配置不会互相干扰，同时也提高了配置的可维护性。
+
+**City Walk 城市漫步**
+
+`Vue3` `TypeScript` `NestJS` `Mysql` `NodeJS` `Redis` `Websocket`
+
+- 这是一个以旅行为主题开发的全栈项目，有登录注册账号模块、天气模块、组织模块、发布动态模块。
+
+- 使用高德地图 API 绘制出行地图、获取天气信息、获取用户 IP 位置。
+
+- 使用 Websocket 实现聊天室
+
+- 后端使用 JWT 规范返回用户 token，在全局中间件中校验用户身份信息
 
 ### 教育经历
 
