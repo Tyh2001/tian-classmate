@@ -45,7 +45,7 @@ Github：https://github.com/Tyh2001
 
 `Vue3` `TypeScript` `Vite` `Pnpm` `Sass`
 
-- Fighting Design 是一个 Vue3 应用程序的交互界面构建组件库，现有 41 位贡献者参与到开发建设中，共计获得 447 个 Star，被选为[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)推荐。
+- Fighting Design 是一个 Vue3 应用程序的交互界面构建组件库，现有 41 位贡献者参与到开发建设中，共计获得 449 个 Star，被选为[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)推荐。
 
 - 根据公司业务需求进行完善，并且可以根据不同的 UI 定制不同的样式。每个变量和方法都有详细的 jsDoc 注释，同时整个项目中没有 any 类型，对函数的参数和返回值均做了清晰标记。
 
