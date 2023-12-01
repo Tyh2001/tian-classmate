@@ -8,13 +8,9 @@ Github：https://github.com/Tyh2001
 
 联系方式：15211111111 / 11111111@qq.com
 
-### 开源贡献
+### 开源项目
 
-- 带领社区团队开发 Vue3 组件库 [Fighting Design](https://github.com/FightingDesign/fighting-design)
-- 独立开发 VitePress 开箱即用模板 [vitepress-template](https://github.com/Tyh2001/vitepress-template)，用于编写组件库官方文档
-- 独立开发 Vue + TypeScript 开箱即用的 ESLint 配置包 [@fighting-design/eslint-config](https://github.com/FightingDesign/fighting-design/tree/master/packages/fighting-eslint-config)，统一了冒号符号规范、缩进规范、模板规范、引入规范和定义规范，提高了公司的代码规范性和可维护性
-- 独立开发自定义按钮工具 [Button](https://github.com/Tyh2001/Button)，用于业务中各种按钮的样式实现
-- 独立开发 VS Code 主题插件 [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
+[Fighting Design](https://github.com/FightingDesign/fighting-design) · [vitepress-template](https://github.com/Tyh2001/vitepress-template) · @fighting-design/eslint-config](https://github.com/FightingDesign/fighting-design/tree/master/packages/fighting-eslint-config) · [Button](https://github.com/Tyh2001/Button) · [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
 
 ### 工作经历
 
