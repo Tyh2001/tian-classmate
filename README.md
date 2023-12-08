@@ -37,6 +37,7 @@ Github：https://github.com/Tyh2001
 ### 专业技能
 
 - 熟练掌握 ES6、TypeScript、Node 和 Vue 全家桶及其周边生态
+- 熟练使用 Windows、Mac、Linux 操作系统，熟悉命令行工具
 - 熟练使用 uniapp 混合应用开发和原生小程序开发
 - 具备良好的前端基础，了解 W3C 标准和事件循环机制
 - 熟练使用 Nest.js、MySQL 和 Redis 开发后端
