@@ -10,6 +10,8 @@ Github：https://github.com/Tyh2001
 
 ### 开源项目
 
+- 拥有开源项目经验，熟悉开源项目规范，一年 Github 最多提交 **5321** 次代码
+
 [Fighting Design](https://github.com/FightingDesign/fighting-design) · [vitepress-template](https://github.com/Tyh2001/vitepress-template) · [@fighting-design/eslint-config](https://github.com/FightingDesign/fighting-design/tree/master/packages/fighting-eslint-config) · [Button](https://github.com/Tyh2001/Button) · [tyh-theme-vscode](https://github.com/Tyh2001/tyh-theme-vscode)
 
 ### 工作经历
