@@ -1,12 +1,10 @@
 <h2 align="center">田同学</h2>
 
-### 基本资料
+<p align="center">男 · 23 岁 · 15211111111 · 11111111@qq.com</p>
 
-个人信息：田同学 / 男 / 23 岁 / 杭州市临平区
+<p align="center">求职意向：Web 前端开发工程师</p>
 
-Github：https://github.com/Tyh2001
-
-联系方式：15211111111 / 11111111@qq.com
+<p align="center">Github：https://github.com/Tyh2001</p>
 
 ### 开源项目
 
