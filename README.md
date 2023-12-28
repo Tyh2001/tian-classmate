@@ -1,10 +1,10 @@
-<h3 align="center">田同学</h3>
+## 田同学
 
-<p align="center">男 · 23 岁 · 15211111111 · 11111111@qq.com</p>
+男 · 23 岁 · 15211111111 · 11111111@qq.com
 
-<p align="center">求职意向：Web 前端开发工程师</p>
+求职意向：Web 前端开发工程师
 
-<p align="center">Github：https://github.com/Tyh2001</p>
+Github：https://github.com/Tyh2001
 
 ### 开源项目
 
