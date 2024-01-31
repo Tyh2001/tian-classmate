@@ -13,6 +13,8 @@ Github：https://github.com/Tyh2001
 - 拥有开源项目经验，熟悉开源项目规范，一年 Github 最多提交 **5321** 次代码
 - 熟悉 npm 包发布流程，擅长编写文档和部署
 
+### 项目经历
+
 **城市漫步CityWalking**
 
 `Vue3` `TypeScript` `NestJS` `Mysql` `NodeJS` `Redis` `Websocket`
@@ -24,8 +26,6 @@ Github：https://github.com/Tyh2001
 - 新用户注册会立刻给我发送邮件通知，我会通过邮件联系用户获得使用反馈。
 - 使用高德地图 API 绘制出行地图、获取天气信息、获取用户 IP 位置。
 - 后端使用 JWT 规范返回用户 token，在全局中间件中校验用户身份信息
-
-### 项目经历
 
 **爱 E 助手 & 爱 E 数字 & 爱 E 后台管理系统**
 
