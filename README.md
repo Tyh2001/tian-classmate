@@ -62,6 +62,8 @@ Github：https://github.com/Tyh2001
 
 **超真云手册**
 
+https://www.czy3d.com/
+
 `Vue3` `TypeScript` `Vite` `ECharts`
 
 - 超真云手册是新一代产品数字化全端 3D 交互云平台。我负责调用 3D 接口展示不同的手册内容，完成各种对 3D 模型的操作，内部共包含云手册 300+。
