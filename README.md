@@ -8,15 +8,15 @@ Github：https://github.com/Tyh2001
 
 ### 专业技能
 
-- 熟练 js 数据类型、数据结构，擅长函数编程，高阶函数实现
-- 熟练掌握 ES6、TypeScript、Node 和 Vue 全家桶及其周边生态，熟悉 React
-- 熟练使用 Swift 和 SwiftUI 开发原生 IOS App
+- 熟练 JavaScript 数据类型、数据结构，擅长异步编程，高阶函数实现
+- 熟练掌握 Vue、React、TypeScript、Node 及其周边生态
+- 熟练使用 Swift 和 SwiftUI 开发 IOS App
 - 熟练使用 Windows、MacOS、Linux 操作系统，熟悉命令行工具
 - 熟练使用 Nest.js、MySQL 和 Redis 开发后端程序
 
 ### 项目
 
-#### 城市漫步 CityWalk
+#### CityWalk
 
 2023-6 ～ 至今
 
@@ -34,8 +34,10 @@ Github：https://github.com/Tyh2001
 
 - 实现了 80 个组件，现有 49 位贡献者参与到开发建设中，共计获得 541 Star，被选为[阮一峰周刊](https://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)。
 - 实现浏览器差异性的的适配，针对一些方法做了兼容处理，例如 Object.entries 和 IntersectionObserver。
+- 编写详细的官方文档，针对每个组件的使用方式和配置都做了详细的描述。
+- 使用 vitest 对每个组件都进行了单元测试。
 
-#### 爱 E 平台
+#### Psychological Health Assistant
 
 2023-8 ～ 至今
 
@@ -44,6 +46,8 @@ Github：https://github.com/Tyh2001
 - 帮助项目渡过了最艰难的时期，在人员不足的情况下，一个人负责所有的前端任务，依旧保持迭代进度。
 - 帮助产品经理、设计师提出很多产品、设计上的优化建议，并均被采纳。
 
-业绩：
+### 获奖记录
 
-- 项目做了 10 个月，月交易额到了 9600 元，并且每月
+- 美国《时代周刊》2006 年度人物
+- 《感动中国》2008 年度人物特别奖
+- 联合国 2019 年度“地球卫士奖”联合获奖人
