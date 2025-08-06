@@ -1,4 +1,4 @@
-## 田同学 https://rxresu.me/builder/clrr4qrht003r3mf6yk5ljbst
+## 田同学
 
 求职意向：Web 前端开发工程师
 
@@ -12,7 +12,7 @@ Github：https://github.com/Tyh2001
 - 精通 Vue、React、TypeScript、Node 及其周边生态系统
 - 熟练使用 Swift 和 SwiftUI 开发 iOS 应用
 - 熟练操作 Windows、macOS、Linux 系统，熟悉命令行工具
-- 精通 Nest.js、MySQL 和 Redis 开发后端程序
+- 熟练 Nest.js、MySQL 和 Redis 开发后端程序
 
 ### 项目
 
@@ -56,12 +56,6 @@ Vue 3.0 开源组件库
 - 对超过 100 个文件的代码进行全面梳理和优化，减少 20% 冗余代码，提高代码可读性和可维护性
 - 使用 Fighting Design 开发后台管理系统，使项目各模块可自定义配置，获得医生的肯定
 - 许多医生支持我们的产品，给予高度评价，甚至表示愿意投资项目
-
-### 获奖记录
-
-- 美国《时代周刊》2006 年度人物
-- 《感动中国》2008 年度人物特别奖
-- 联合国 2019 年度“地球卫士奖”联合获奖人
 
 ### 教育经历
 
